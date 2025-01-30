@@ -1,0 +1,51 @@
+h1{
+    background: #00f;;
+height: auto;
+width: auto;
+text-align: center;
+
+}
+h2{
+    background: #ffff00;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+body{
+    background: rgb(184, 176, 226);
+    height: auto;
+    width: auto;
+    text-align: center;
+
+}
+.ss{
+    color: #ffff00;
+    background: #86686d9a;
+    text-align-last: right;
+   
+
+}
+*{   
+    background: url(https://upload.wikimedia.org/wikipedia/commons/f/f9/Indian-Indian-Bank-logo.jpg) no-repeat  center fixed;
+    background-size: 100%;
+    
+}
+div>a{
+    background: #00f;
+    font-size: xx-large;
+    position: fixed;
+    right: 2%;
+    bottom: 0;
+}
+#e{
+    background: #ffff00;
+    position: sticky;
+    top: 0%;
+    z-index: 20s;
+}
+#q{
+  background: #6161a3;
+    position:sticky;
+    margin-right           : 0%;
+    margin-top: 0%;
+}
